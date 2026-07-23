@@ -1,4 +1,4 @@
-# ⌚ Aura Watches - Luxury E-Commerce UI
+# ⌚ Aura Watches - Luxury E-Commerce UI ( Just Crated For Using In My Portfolio )
 
 یک رابط کاربری فروشگاهی (High-Converting UI) فوق‌العاده لوکس و مدرن که برای فروشگاه تخصصی ساعت‌های اورجینال و هوشمند طراحی شده است. در این پروژه از پالت رنگی سبز زمردی عمیق (Emerald Green) و طلایی مات برای انتقال حس اصالت و قدرت استفاده شده است.
 
